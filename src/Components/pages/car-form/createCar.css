@@ -1,0 +1,19 @@
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.item{
+    margin-top: 150px;
+}
+
+input{
+    display: block;
+    text-align: center;
+    margin-left: 40px;
+}
+textarea{
+    display: block;
+}

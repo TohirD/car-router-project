@@ -1,0 +1,39 @@
+{
+    "cars": [
+      {
+        "id": 1, 
+        "name" : "BMW X6",
+        "price" : 1300000,
+        "image" : "https://cdn.motor1.com/images/mgl/NGOMej/s1/bmw-i5-edrive40-2023.jpg",
+        "comment" : "With such a solid history, the X6 doesn’t have many models that you should avoid. In fact, it only has a single one, and while it isn’t completely unreliable or fraught with terrible defects, you might as well get one of the many great BMW X6 year models. CoPilot recommends avoiding the following X6..2011 BMW X6.The 2011 BMW X6 has the highest number of complaints of any year model, coming in at a still impressive two complaints. For most cars this wouldn’t even be considered a problem, but the nature of the complaints and the fact that there are a dozen other year models with little to no defects means you should avoid the 2011..At around 70,000 miles, there’s been a complaint of an overheating engine and a Tire Pressure Monitoring System (TPMS) light remaining on, which indicates that tire pressure might be too low for safe driving. Although these problems haven’t been widely reported, they could pose enough of a risk that we recommend avoiding the 2011 BMW X6."
+      }, 
+      {
+        "id": 2, 
+        "name" : "Bugatti",
+        "price" : 100099,
+        "image" : "https://newsroomcdn.bugatti.com/w_1800,q_75/79d18f28-86a8-4774-95e5-7912b1043339.webp",
+        "comment" : "SINCE 1909, REINVENTING THE EXTRAORDINARY BUGATTI Automobiles has been at the pinnacle of the automotive industry for over 110 years, creating the worlds most powerful and luxurious cars from its home in Molsheim, France. Every car crafted since the company was founded by Ettore Bugatti in 1909 is desired by collectors and praised for its comfort, design, technology and performance.Throughout its history, BUGATTI has had a number of ingenious custodians, each ushering in a new era with their individual blend of artistry and engineering excellence. Following Ettore and his son Jean Bugatti, the brand was revived by Romano Artioli in the late 1980s. His creation, the EB110, introduced a number of innovations that set a new benchmark for sports car performance, including a quad-turbocharged engine, carbon fiber monocoque and advanced four-wheel-drive system.In the early 2000s, BUGATTI entered another level under the stewardship of Ferdinand Piëch. With the introduction of the VEYRON, BUGATTI created an entirely new segment: the hyper sports car, becoming the first production model to break through 1,000 PS and 400 km/h. In 2016, the CHIRON once again redefined speed and usability. Built around an evolution of the VEYRON’s 8.0-liter quad-turbo W16 a derivative of the CHIRON with 1,600 PS became the first series production vehicle to break the 300 mph barrier. The legendary W16 engine is also at the heart of highly exclusive coach built models: the DIVO, LA VOITURE NOIRE, CENTODIECI, BOLIDE AND W16 MISTRAL.Today, BUGATTI is part of the BUGATTI RIMAC Group, guided by CEO Mate Rimac. A new era is dawning, inspired by the immortal words of the company's founder, Ettore: If comparable, it is no longer BUGATTI."
+      },
+      {
+        "id": 3,
+          "name": "McLarne",
+          "price": 2100999,
+          "image": "https://financialexpresswpcontent.s3.amazonaws.com/uploads/2016/09/McLaren-P1-L-620x413.jpg",
+          "comment": "McLaren Automotive (formerly known as McLaren Cars) is a British luxury automotive manufacturer based at the McLaren Technology Centre in Woking, England. The main products of the company are sports cars, which are produced in-house in designated production facilities. In July 2017, McLaren Automotive became a wholly-owned subsidiary of the wider, McLaren Automotive replaced McLaren Cars in 2010. McLaren Cars had been founded in 1985[4] and released the McLaren F1 in 1992. Between 1994 and 2010, McLaren Cars was registered as a 'dormant company', before the founding of McLaren Automotive in 2010. The new company was originally separate from the existing McLaren companies to enable investment in the new venture, but was brought together in July 2017 after Ron Dennis sold his shares in McLaren Automotive and McLaren Group."
+      },
+      {
+        "id": 4,
+          "name": "BMW X6",
+          "price": 3200099,
+          "image": "https://www.carmag.co.za/wp-content/uploads/2023/02/BMW-X6_M_Competition-2024-1280-12-800x480.webp",
+          "comment": "McLaren Automotive (formerly known as McLaren Cars) is a British luxury automotive manufacturer based at the McLaren Technology Centre in Woking, England. The main products of the company are sports cars, which are produced in-house in designated production facilities. In July 2017, McLaren Automotive became a wholly-owned subsidiary of the wider, McLaren Automotive replaced McLaren Cars in 2010. McLaren Cars had been founded in 1985[4] and released the McLaren F1 in 1992. Between 1994 and 2010, McLaren Cars was registered as a 'dormant company', before the founding of McLaren Automotive in 2010. The new company was originally separate from the existing McLaren companies to enable investment in the new venture, but was brought together in July 2017 after Ron Dennis sold his shares in McLaren Automotive and McLaren Group."
+      },
+      {
+        "id": 5,
+          "name": "Maserati",
+          "price": 520333,
+          "image": "https://d3o9uids7iaclu.cloudfront.net/content/uploads/2022/11/29164947/Maserati_MC20_CIELO_01.jpg",
+          "comment": "MAserati Automotive (formerly known as McLaren Cars) is a British luxury automotive manufacturer based at the McLaren Technology Centre in Woking, England. The main products of the company are sports cars, which are produced in-house in designated production facilities. In July 2017, McLaren Automotive became a wholly-owned subsidiary of the wider, McLaren Automotive replaced McLaren Cars in 2010. McLaren Cars had been founded in 1985[4] and released the McLaren F1 in 1992. Between 1994 and 2010, McLaren Cars was registered as a 'dormant company', before the founding of McLaren Automotive in 2010. The new company was originally separate from the existing McLaren companies to enable investment in the new venture, but was brought together in July 2017 after Ron Dennis sold his shares in McLaren Automotive and McLaren Group."
+      }
+    ]
+  }
